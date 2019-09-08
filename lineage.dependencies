@@ -1,7 +1,9 @@
 [
   {
-    "repository": "android_kernel_xiaomi_sdm845",
-    "target_path": "kernel/xiaomi/sdm845"
+    "repository": "okitavera/msm-4.9-grus-okita",
+    "target_path": "kernel/xiaomi/sdm710"
+    "remote": "github"
+    "branch": "pie"
   },
   {
     "repository": "android_packages_resources_devicesettings",
