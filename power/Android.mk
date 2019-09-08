@@ -17,7 +17,7 @@ LOCAL_SRC_FILES := \
     hint-data.c \
     list.c \
     metadata-parser.c \
-    power-845.c \
+    power-710.c \
     power-common.c \
     powerhintparser.c \
     Power.cpp \
